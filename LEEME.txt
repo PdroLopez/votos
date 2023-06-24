@@ -1,0 +1,3 @@
+PHP version: 8.0.28
+Para montar este proyecto se debe utilizar XAMPP, ya que las rutas comienza con xampp/...
+phpMyAdmin MYSQL version 5.2.1
